@@ -20,7 +20,7 @@ This isn't a fork, it's just a project to practice my frontend skills.
 - [ ] Backend
 
 ## 📱 Website link
-[Link](https://elmarcz.github.io/Youtube-HTML/)
+- [Link](https://elmarcz.github.io/Youtube-HTML/)
 
 ### 👤 Stay in touch
 - [Website](https://elmarcz.github.io/portfolio/)
