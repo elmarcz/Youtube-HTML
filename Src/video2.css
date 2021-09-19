@@ -1,0 +1,218 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 0;
+}
+
+body{
+    background: #181818;
+}
+
+.container-videos{
+    margin-top:auto;
+    margin-left: auto;
+    display: inline-block;
+    background: #181818;   
+}
+
+.container-videos2{
+    
+    width: 27.54%;
+    background: none; 
+    display: inline-block;
+   
+}
+
+.miniatura2{
+    margin-top: 15px;
+    margin-left: 90px;
+    background:black;
+    height: 700px;
+    width: 1270px;
+    display: block;
+}
+
+.tarjeta{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background: #181818;
+}
+
+.tarjeta h3{
+    display: inline-block;
+    font-weight: 30px;
+    margin-left: 90px;
+    margin-bottom: 10px;
+    background: #181818;
+    margin-top: 20px;
+    color: white;
+}
+
+.description{
+    margin-right: 10px;
+    background: #181818;
+    margin-left: 90px;
+    display: block;
+    color: gray;
+}
+
+.borde{
+    backdrop-filter: blur;
+    margin-top: 15px;
+    max-width: 1270px;
+    margin-left: 90px;
+    border-bottom: 1px solid #eee;
+}
+
+.borde2{
+    backdrop-filter: blur;
+    margin-top: 100px;
+    max-width: 1270px;
+    margin-left: 90px;
+    border-bottom: 0.0001px solid #eee;
+}
+
+.contenido{
+    max-width: 1270px;
+    margin-left: 90px;
+    background: #181818;
+}
+
+.Mostrar-Mas{
+ background: none;
+ margin-top: 40px;
+ margin-left: 65px;
+}
+
+.Mostrar-Mas p{
+    background: none;
+    color: gray;
+    font-weight: bold;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.logo-autor2{
+    margin-top:20px;
+    margin-right: 5px;
+    height: 50px;
+    width:50px;
+    border-radius: 100%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.Datos{
+    margin-top:20px;
+    margin-left: 5px;
+    background: #181818;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+}
+
+.Datos .Nombre-autor{
+    font-weight: bold;
+    background: #181818;
+}
+
+.Datos .Subs-autor{
+    color: grey;
+    background: #181818;
+    font-size: 12px;
+}
+
+.suscribirse{
+    height: 40px;
+    width: 150px;
+    color: white;
+    display: inline-block;
+    background: red;
+    text-align: center;
+    border: none;
+    border-radius:3px;
+    cursor: pointer;
+
+    font-weight: bold;
+    
+}
+
+.contenidoq{
+    display: inline-block;
+    background: #181818;
+}
+
+
+.boton{
+    display: inline-block;
+    text-align: right;
+    font-weight: bold;
+    margin-left: 950px;
+    margin-top: 20px;
+}
+
+.Descripción{
+    max-width: 1270px;
+    margin-top: 20px;
+    color: #eee;
+    margin-left: 65px;
+    background: #181818;
+}
+
+.Descripción p{
+    background: #181818;
+}
+
+.miniatura{
+    background:black;
+    height: 100px;
+    width: 180px;
+    display: inline-block;
+}
+
+
+
+.tarjeta2{
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 101px;
+    margin-bottom: 30px;
+    width: 100%;
+    background: #181818;
+}
+
+.tarjeta2 h5{
+    padding-top: 10px;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    background: #181818;
+}
+
+.tarjeta2 p{
+    margin:5px;
+    font-size: 13px;
+    display: block;
+    background: #181818;
+    color: gray;
+}
+
+.logo-autor{
+    margin-top:10px;
+    margin-right: 5px;
+    height: 40px;
+    width:40px;
+    border-radius: 100%;
+    display: inline-block;
+    
+}
+
+.miniatura:hover{
+    background: transparent;
+}
