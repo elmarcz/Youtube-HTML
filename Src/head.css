@@ -61,6 +61,8 @@ body{
     color: #fff;
     display: inline-block;
     background: #161515;
+    
+    outline: none;
 }
 
 .barra:active{
