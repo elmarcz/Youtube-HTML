@@ -1,0 +1,81 @@
+.container-videos{
+    width: 87%;
+    margin-top:auto;
+    margin-left: auto;
+    background: #181818;
+    
+}
+
+.miniatura{
+    background:black;
+    height: 200px;
+    width: 360px;
+    display: block;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.tarjeta{
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background: #181818;
+    width: 360px;
+}
+
+.tarjeta h4{
+    display: inline-block;
+    max-width: 282px;
+    height: auto;
+    margin-bottom: 3px;
+    background: #181818;
+    margin-top: 10px;
+    color: white;
+}
+
+.tarjeta p{
+    margin-right: 10px;
+    background: #181818;
+    margin-left: 50px;
+    display: block;
+    color: gray;
+}
+
+.logo-autor{
+    margin-top:10px;
+    margin-right: 5px;
+    height: 40px;
+    width:40px;
+    border-radius: 100%;
+    display: inline-block;
+    
+}
+
+.miniatura:hover{
+    background: none;
+    background-clip: url(../Imagenes/o\ vídeo\ de\ 5\ segundos\ +\ assistido\ do\ youtube_360P.mp4);
+}
+
+@media only screen and (max-width: 600px){
+    .container-videos{
+        width: 100%;
+    }
+
+    .tarjeta{
+        width: 100%;
+        height: auto;
+    }
+
+    .miniatura{
+        background:black;
+    height: 400px;
+    width: 100%;
+    display: block;
+    }
+}
