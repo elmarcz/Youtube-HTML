@@ -18,6 +18,7 @@ This isn't a fork, it's just a project to practice my frontend skills.
 
 - [x] Frontend
 - [ ] Backend
+- [ ] Database
 
 ## 📱 Website link
 - [Link](https://elmarcz.github.io/Youtube-HTML/)
